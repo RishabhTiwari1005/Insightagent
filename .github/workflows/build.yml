@@ -1,0 +1,40 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+          cache: maven
+
+      - name: Test and build production JAR
+        run: mvn -B -Pproduction package
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: insightagent-jar
+          path: target/insightagent.jar
+
+      # Week 4: uncomment to deploy to AWS Elastic Beanstalk on every push to main.
+      # Add AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as repo secrets first.
+      # - name: Deploy to Elastic Beanstalk
+      #   if: github.ref == 'refs/heads/main'
+      #   uses: einaregilsson/beanstalk-deploy@v22
+      #   with:
+      #     aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      #     aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      #     application_name: insightagent
+      #     environment_name: insightagent-env
+      #     region: me-central-1
+      #     version_label: ${{ github.sha }}
+      #     deployment_package: target/insightagent.jar

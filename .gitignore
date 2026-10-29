@@ -1,0 +1,10 @@
+target/
+data/
+node_modules/
+src/main/frontend/generated/
+src/main/bundles/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.env

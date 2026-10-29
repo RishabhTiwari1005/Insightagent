@@ -1,0 +1,726 @@
+order_id,order_date,region,product,category,customer_type,units,unit_price,discount_pct,revenue
+1000,2025-01-01,South,Desk,Furniture,New,8,240,10,1728.0
+1001,2025-01-01,East,Chair,Furniture,New,12,130,0,1560.0
+1002,2025-01-02,North,Desk,Furniture,Returning,8,240,10,1728.0
+1003,2025-01-03,North,Phone,Electronics,New,13,520,15,5746.0
+1004,2025-01-04,West,Laptop,Electronics,Returning,12,850,0,10200.0
+1005,2025-01-04,West,Phone,Electronics,New,10,520,10,4680.0
+1006,2025-01-04,East,Chair,Furniture,New,15,130,10,1755.0
+1007,2025-01-05,North,Chair,Furniture,New,9,130,15,994.5
+1008,2025-01-05,North,Chair,Furniture,Returning,14,130,5,1729.0
+1009,2025-01-06,West,Headphones,Electronics,New,17,90,0,1530.0
+1010,2025-01-06,South,Notebook,Stationery,Returning,9,4,0,36.0
+1011,2025-01-07,West,Headphones,Electronics,New,8,90,10,648.0
+1012,2025-01-07,North,Chair,Furniture,Returning,4,130,0,520.0
+1013,2025-01-08,North,Notebook,Stationery,Returning,16,4,0,64.0
+1014,2025-01-08,East,Notebook,Stationery,New,10,4,5,38.0
+1015,2025-01-09,East,Desk,Furniture,New,20,240,15,4080.0
+1016,2025-01-10,East,Notebook,Stationery,Returning,6,4,5,22.8
+1017,2025-01-11,West,Notebook,Stationery,New,7,4,0,28.0
+1018,2025-01-11,West,Headphones,Electronics,New,11,90,0,990.0
+1019,2025-01-11,East,Phone,Electronics,New,17,520,15,7514.0
+1020,2025-01-12,West,Pen Pack,Stationery,Returning,8,6,5,45.6
+1021,2025-01-12,South,Pen Pack,Stationery,Returning,9,6,5,51.3
+1022,2025-01-13,West,Headphones,Electronics,New,8,90,0,720.0
+1023,2025-01-13,North,Phone,Electronics,New,7,520,0,3640.0
+1024,2025-01-13,South,Laptop,Electronics,Returning,4,850,0,3400.0
+1025,2025-01-14,South,Desk,Furniture,Returning,10,240,10,2160.0
+1026,2025-01-15,East,Phone,Electronics,New,11,520,10,5148.0
+1027,2025-01-15,West,Pen Pack,Stationery,Returning,5,6,15,25.5
+1028,2025-01-15,West,Desk,Furniture,New,6,240,5,1368.0
+1029,2025-01-16,North,Phone,Electronics,New,15,520,5,7410.0
+1030,2025-01-17,East,Chair,Furniture,New,14,130,0,1820.0
+1031,2025-01-18,North,Laptop,Electronics,Returning,12,850,0,10200.0
+1032,2025-01-18,South,Notebook,Stationery,Returning,9,4,0,36.0
+1033,2025-01-19,North,Pen Pack,Stationery,Returning,16,6,5,91.2
+1034,2025-01-20,West,Headphones,Electronics,Returning,12,90,0,1080.0
+1035,2025-01-20,West,Pen Pack,Stationery,New,11,6,15,56.1
+1036,2025-01-21,North,Phone,Electronics,New,17,520,0,8840.0
+1037,2025-01-21,East,Notebook,Stationery,Returning,12,4,0,48.0
+1038,2025-01-21,East,Phone,Electronics,Returning,11,520,10,5148.0
+1039,2025-01-22,South,Chair,Furniture,New,11,130,0,1430.0
+1040,2025-01-22,West,Notebook,Stationery,Returning,11,4,5,41.8
+1041,2025-01-22,North,Laptop,Electronics,Returning,8,850,0,6800.0
+1042,2025-01-23,South,Notebook,Stationery,Returning,6,4,15,20.4
+1043,2025-01-23,East,Laptop,Electronics,New,11,850,0,9350.0
+1044,2025-01-24,West,Phone,Electronics,New,8,520,10,3744.0
+1045,2025-01-25,East,Pen Pack,Stationery,New,20,6,15,102.0
+1046,2025-01-25,North,Desk,Furniture,New,13,240,5,2964.0
+1047,2025-01-26,East,Laptop,Electronics,Returning,4,850,15,2890.0
+1048,2025-01-26,West,Desk,Furniture,New,10,240,0,2400.0
+1049,2025-01-27,North,Phone,Electronics,Returning,9,520,10,4212.0
+1050,2025-01-28,South,Chair,Furniture,Returning,14,130,15,1547.0
+1051,2025-01-28,South,Chair,Furniture,New,1,130,10,117.0
+1052,2025-01-28,North,Laptop,Electronics,New,14,850,0,11900.0
+1053,2025-01-29,South,Pen Pack,Stationery,New,3,6,0,18.0
+1054,2025-01-29,East,Phone,Electronics,Returning,13,520,10,6084.0
+1055,2025-01-30,West,Pen Pack,Stationery,New,14,6,0,84.0
+1056,2025-01-30,East,Desk,Furniture,Returning,8,240,10,1728.0
+1057,2025-01-31,South,Chair,Furniture,New,3,130,0,390.0
+1058,2025-01-31,West,Pen Pack,Stationery,New,10,6,0,60.0
+1059,2025-01-31,South,Desk,Furniture,New,9,240,10,1944.0
+1060,2025-02-01,North,Headphones,Electronics,New,9,90,5,769.5
+1061,2025-02-01,North,Phone,Electronics,Returning,6,520,0,3120.0
+1062,2025-02-01,North,Pen Pack,Stationery,New,16,6,0,96.0
+1063,2025-02-02,East,Chair,Furniture,New,18,130,10,2106.0
+1064,2025-02-02,East,Desk,Furniture,New,3,240,10,648.0
+1065,2025-02-03,East,Chair,Furniture,Returning,13,130,0,1690.0
+1066,2025-02-03,South,Desk,Furniture,New,12,240,0,2880.0
+1067,2025-02-03,West,Laptop,Electronics,Returning,14,850,0,11900.0
+1068,2025-02-04,South,Notebook,Stationery,New,7,4,0,28.0
+1069,2025-02-05,South,Notebook,Stationery,Returning,6,4,0,24.0
+1070,2025-02-05,West,Phone,Electronics,Returning,19,520,0,9880.0
+1071,2025-02-06,West,Headphones,Electronics,New,10,90,5,855.0
+1072,2025-02-06,East,Headphones,Electronics,Returning,19,90,0,1710.0
+1073,2025-02-06,West,Notebook,Stationery,Returning,13,4,0,52.0
+1074,2025-02-07,East,Chair,Furniture,New,17,130,0,2210.0
+1075,2025-02-07,North,Headphones,Electronics,New,11,90,0,990.0
+1076,2025-02-08,East,Pen Pack,Stationery,Returning,18,6,15,91.8
+1077,2025-02-09,South,Chair,Furniture,Returning,12,130,10,1404.0
+1078,2025-02-09,East,Laptop,Electronics,Returning,12,850,0,10200.0
+1079,2025-02-10,East,Laptop,Electronics,New,24,850,15,17340.0
+1080,2025-02-11,North,Chair,Furniture,Returning,13,130,0,1690.0
+1081,2025-02-11,North,Headphones,Electronics,Returning,10,90,10,810.0
+1082,2025-02-12,South,Laptop,Electronics,New,6,850,0,5100.0
+1083,2025-02-12,East,Laptop,Electronics,New,13,850,0,11050.0
+1084,2025-02-13,East,Chair,Furniture,New,14,130,10,1638.0
+1085,2025-02-13,East,Headphones,Electronics,Returning,9,90,0,810.0
+1086,2025-02-14,North,Laptop,Electronics,Returning,11,850,0,9350.0
+1087,2025-02-15,West,Laptop,Electronics,Returning,5,850,15,3612.5
+1088,2025-02-16,West,Chair,Furniture,Returning,13,130,10,1521.0
+1089,2025-02-16,South,Phone,Electronics,New,6,520,0,3120.0
+1090,2025-02-16,South,Desk,Furniture,New,20,240,0,4800.0
+1091,2025-02-17,East,Desk,Furniture,New,13,240,0,3120.0
+1092,2025-02-18,West,Pen Pack,Stationery,New,1,6,10,5.4
+1093,2025-02-19,East,Laptop,Electronics,New,13,850,5,10497.5
+1094,2025-02-19,South,Headphones,Electronics,Returning,6,90,0,540.0
+1095,2025-02-19,South,Laptop,Electronics,New,10,850,0,8500.0
+1096,2025-02-20,South,Laptop,Electronics,New,8,850,0,6800.0
+1097,2025-02-20,South,Chair,Furniture,New,11,130,0,1430.0
+1098,2025-02-21,North,Phone,Electronics,Returning,10,520,0,5200.0
+1099,2025-02-21,East,Notebook,Stationery,New,15,4,0,60.0
+1100,2025-02-22,South,Notebook,Stationery,Returning,15,4,10,54.0
+1101,2025-02-22,East,Notebook,Stationery,New,7,4,5,26.6
+1102,2025-02-22,East,Notebook,Stationery,Returning,11,4,15,37.4
+1103,2025-02-23,South,Chair,Furniture,New,8,130,10,936.0
+1104,2025-02-23,South,Laptop,Electronics,New,11,850,0,9350.0
+1105,2025-02-23,West,Pen Pack,Stationery,New,11,6,5,62.7
+1106,2025-02-24,North,Notebook,Stationery,New,8,4,0,32.0
+1107,2025-02-24,West,Pen Pack,Stationery,New,10,6,0,60.0
+1108,2025-02-24,North,Notebook,Stationery,Returning,11,4,0,44.0
+1109,2025-02-25,South,Phone,Electronics,Returning,6,520,15,2652.0
+1110,2025-02-26,West,Laptop,Electronics,New,4,850,0,3400.0
+1111,2025-02-26,North,Chair,Furniture,Returning,12,130,0,1560.0
+1112,2025-02-27,East,Chair,Furniture,Returning,13,130,0,1690.0
+1113,2025-02-27,East,Notebook,Stationery,New,14,4,0,56.0
+1114,2025-02-28,West,Headphones,Electronics,Returning,9,90,5,769.5
+1115,2025-02-28,North,Chair,Furniture,Returning,8,130,0,1040.0
+1116,2025-02-28,North,Desk,Furniture,Returning,17,240,10,3672.0
+1117,2025-03-01,West,Phone,Electronics,New,11,520,0,5720.0
+1118,2025-03-01,North,Phone,Electronics,New,11,520,0,5720.0
+1119,2025-03-02,East,Laptop,Electronics,Returning,3,850,15,2167.5
+1120,2025-03-02,South,Desk,Furniture,New,13,240,0,3120.0
+1121,2025-03-02,North,Desk,Furniture,Returning,8,240,15,1632.0
+1122,2025-03-03,East,Notebook,Stationery,New,5,4,0,20.0
+1123,2025-03-03,East,Laptop,Electronics,Returning,6,850,0,5100.0
+1124,2025-03-04,North,Phone,Electronics,Returning,9,520,0,4680.0
+1125,2025-03-04,East,Laptop,Electronics,Returning,1,850,5,807.5
+1126,2025-03-05,North,Headphones,Electronics,Returning,19,90,0,1710.0
+1127,2025-03-05,North,Laptop,Electronics,Returning,8,850,15,5780.0
+1128,2025-03-05,South,Phone,Electronics,New,13,520,0,6760.0
+1129,2025-03-06,West,Laptop,Electronics,Returning,9,850,15,6502.5
+1130,2025-03-06,South,Notebook,Stationery,Returning,17,4,5,64.6
+1131,2025-03-07,South,Notebook,Stationery,Returning,14,4,0,56.0
+1132,2025-03-07,North,Chair,Furniture,Returning,15,130,0,1950.0
+1133,2025-03-07,East,Headphones,Electronics,Returning,6,90,15,459.0
+1134,2025-03-08,South,Headphones,Electronics,New,3,90,0,270.0
+1135,2025-03-08,South,Laptop,Electronics,Returning,10,850,0,8500.0
+1136,2025-03-09,South,Desk,Furniture,Returning,20,240,5,4560.0
+1137,2025-03-09,South,Chair,Furniture,New,2,130,0,260.0
+1138,2025-03-09,North,Phone,Electronics,Returning,10,520,0,5200.0
+1139,2025-03-10,South,Laptop,Electronics,Returning,11,850,15,7947.5
+1140,2025-03-10,West,Desk,Furniture,Returning,10,240,0,2400.0
+1141,2025-03-11,West,Headphones,Electronics,Returning,7,90,10,567.0
+1142,2025-03-12,South,Laptop,Electronics,Returning,9,850,5,7267.5
+1143,2025-03-13,East,Pen Pack,Stationery,New,6,6,0,36.0
+1144,2025-03-13,North,Desk,Furniture,Returning,9,240,5,2052.0
+1145,2025-03-14,North,Desk,Furniture,Returning,1,240,10,216.0
+1146,2025-03-15,South,Pen Pack,Stationery,New,11,6,10,59.4
+1147,2025-03-15,West,Laptop,Electronics,New,12,850,10,9180.0
+1148,2025-03-16,South,Phone,Electronics,Returning,8,520,15,3536.0
+1149,2025-03-17,East,Chair,Furniture,Returning,4,130,15,442.0
+1150,2025-03-18,North,Laptop,Electronics,New,17,850,10,13005.0
+1151,2025-03-18,West,Headphones,Electronics,New,13,90,0,1170.0
+1152,2025-03-18,North,Chair,Furniture,New,10,130,0,1300.0
+1153,2025-03-19,South,Chair,Furniture,New,13,130,0,1690.0
+1154,2025-03-19,West,Notebook,Stationery,Returning,9,4,0,36.0
+1155,2025-03-20,West,Laptop,Electronics,New,9,850,0,7650.0
+1156,2025-03-20,West,Headphones,Electronics,Returning,10,90,0,900.0
+1157,2025-03-20,East,Notebook,Stationery,New,5,4,5,19.0
+1158,2025-03-21,East,Notebook,Stationery,New,5,4,5,19.0
+1159,2025-03-22,South,Phone,Electronics,New,8,520,5,3952.0
+1160,2025-03-22,East,Pen Pack,Stationery,Returning,5,6,10,27.0
+1161,2025-03-23,South,Phone,Electronics,Returning,8,520,5,3952.0
+1162,2025-03-23,North,Chair,Furniture,New,15,130,0,1950.0
+1163,2025-03-23,South,Desk,Furniture,New,12,240,0,2880.0
+1164,2025-03-24,West,Desk,Furniture,New,18,240,15,3672.0
+1165,2025-03-25,South,Headphones,Electronics,New,4,90,0,360.0
+1166,2025-03-26,West,Laptop,Electronics,Returning,8,850,0,6800.0
+1167,2025-03-26,West,Phone,Electronics,New,17,520,0,8840.0
+1168,2025-03-26,North,Headphones,Electronics,New,16,90,0,1440.0
+1169,2025-03-27,East,Pen Pack,Stationery,Returning,5,6,0,30.0
+1170,2025-03-27,North,Laptop,Electronics,Returning,11,850,10,8415.0
+1171,2025-03-28,East,Headphones,Electronics,Returning,3,90,15,229.5
+1172,2025-03-29,West,Phone,Electronics,Returning,13,520,0,6760.0
+1173,2025-03-30,West,Laptop,Electronics,Returning,3,850,0,2550.0
+1174,2025-03-31,North,Chair,Furniture,New,9,130,10,1053.0
+1175,2025-04-01,East,Headphones,Electronics,New,18,90,0,1620.0
+1176,2025-04-01,North,Laptop,Electronics,Returning,13,850,15,9392.5
+1177,2025-04-02,East,Desk,Furniture,New,11,240,5,2508.0
+1178,2025-04-02,West,Phone,Electronics,New,21,520,0,10920.0
+1179,2025-04-03,South,Headphones,Electronics,Returning,10,90,0,900.0
+1180,2025-04-03,East,Pen Pack,Stationery,Returning,14,6,0,84.0
+1181,2025-04-03,South,Phone,Electronics,New,8,520,5,3952.0
+1182,2025-04-04,North,Desk,Furniture,New,7,240,5,1596.0
+1183,2025-04-04,North,Headphones,Electronics,New,10,90,10,810.0
+1184,2025-04-04,South,Laptop,Electronics,New,1,850,5,807.5
+1185,2025-04-05,South,Desk,Furniture,New,15,240,5,3420.0
+1186,2025-04-06,North,Pen Pack,Stationery,Returning,14,6,10,75.6
+1187,2025-04-06,East,Headphones,Electronics,Returning,10,90,15,765.0
+1188,2025-04-06,South,Desk,Furniture,Returning,9,240,0,2160.0
+1189,2025-04-07,South,Headphones,Electronics,Returning,12,90,0,1080.0
+1190,2025-04-07,East,Phone,Electronics,Returning,10,520,0,5200.0
+1191,2025-04-07,North,Laptop,Electronics,Returning,11,850,0,9350.0
+1192,2025-04-08,West,Headphones,Electronics,New,14,90,0,1260.0
+1193,2025-04-09,South,Laptop,Electronics,New,10,850,0,8500.0
+1194,2025-04-10,East,Pen Pack,Stationery,Returning,16,6,0,96.0
+1195,2025-04-10,South,Laptop,Electronics,Returning,1,850,0,850.0
+1196,2025-04-11,North,Phone,Electronics,New,13,520,15,5746.0
+1197,2025-04-12,East,Desk,Furniture,Returning,14,240,15,2856.0
+1198,2025-04-13,East,Laptop,Electronics,Returning,17,850,10,13005.0
+1199,2025-04-14,West,Laptop,Electronics,New,18,850,5,14535.0
+1200,2025-04-15,North,Notebook,Stationery,Returning,15,4,5,57.0
+1201,2025-04-15,East,Desk,Furniture,Returning,22,240,0,5280.0
+1202,2025-04-15,East,Desk,Furniture,New,4,240,0,960.0
+1203,2025-04-16,West,Phone,Electronics,Returning,15,520,0,7800.0
+1204,2025-04-16,South,Desk,Furniture,Returning,10,240,10,2160.0
+1205,2025-04-17,South,Phone,Electronics,New,10,520,0,5200.0
+1206,2025-04-17,South,Notebook,Stationery,Returning,10,4,10,36.0
+1207,2025-04-18,South,Phone,Electronics,Returning,5,520,0,2600.0
+1208,2025-04-18,South,Chair,Furniture,Returning,10,130,5,1235.0
+1209,2025-04-18,South,Headphones,Electronics,New,10,90,0,900.0
+1210,2025-04-19,East,Laptop,Electronics,New,7,850,0,5950.0
+1211,2025-04-19,South,Chair,Furniture,New,6,130,5,741.0
+1212,2025-04-20,South,Chair,Furniture,New,10,130,10,1170.0
+1213,2025-04-20,West,Headphones,Electronics,New,15,90,0,1350.0
+1214,2025-04-21,South,Laptop,Electronics,New,15,850,15,10837.5
+1215,2025-04-22,East,Laptop,Electronics,Returning,6,850,5,4845.0
+1216,2025-04-22,East,Notebook,Stationery,Returning,7,4,5,26.6
+1217,2025-04-22,East,Desk,Furniture,Returning,18,240,10,3888.0
+1218,2025-04-23,North,Laptop,Electronics,Returning,7,850,0,5950.0
+1219,2025-04-24,West,Pen Pack,Stationery,Returning,7,6,0,42.0
+1220,2025-04-24,West,Laptop,Electronics,New,14,850,0,11900.0
+1221,2025-04-24,West,Chair,Furniture,New,12,130,10,1404.0
+1222,2025-04-25,South,Laptop,Electronics,New,12,850,15,8670.0
+1223,2025-04-26,West,Notebook,Stationery,New,8,4,0,32.0
+1224,2025-04-27,North,Phone,Electronics,New,19,520,0,9880.0
+1225,2025-04-28,South,Laptop,Electronics,Returning,15,850,0,12750.0
+1226,2025-04-28,South,Headphones,Electronics,New,12,90,5,1026.0
+1227,2025-04-28,East,Chair,Furniture,New,11,130,5,1358.5
+1228,2025-04-29,East,Chair,Furniture,New,9,130,0,1170.0
+1229,2025-04-29,South,Desk,Furniture,Returning,9,240,0,2160.0
+1230,2025-04-29,East,Desk,Furniture,New,19,240,0,4560.0
+1231,2025-04-30,East,Pen Pack,Stationery,New,23,6,5,131.1
+1232,2025-04-30,East,Chair,Furniture,Returning,10,130,0,1300.0
+1233,2025-04-30,West,Headphones,Electronics,New,7,90,10,567.0
+1234,2025-05-01,East,Pen Pack,Stationery,New,18,6,10,97.2
+1235,2025-05-01,East,Pen Pack,Stationery,Returning,16,6,10,86.4
+1236,2025-05-02,East,Notebook,Stationery,Returning,15,4,0,60.0
+1237,2025-05-02,West,Desk,Furniture,Returning,10,240,10,2160.0
+1238,2025-05-03,South,Desk,Furniture,New,10,240,0,2400.0
+1239,2025-05-04,East,Headphones,Electronics,Returning,23,90,0,2070.0
+1240,2025-05-05,South,Desk,Furniture,Returning,4,240,0,960.0
+1241,2025-05-05,West,Phone,Electronics,New,7,520,0,3640.0
+1242,2025-05-05,South,Notebook,Stationery,New,10,4,15,34.0
+1243,2025-05-06,East,Desk,Furniture,New,16,240,0,3840.0
+1244,2025-05-06,North,Notebook,Stationery,Returning,16,4,10,57.6
+1245,2025-05-06,West,Phone,Electronics,New,2,520,0,1040.0
+1246,2025-05-07,North,Chair,Furniture,New,15,130,0,1950.0
+1247,2025-05-08,North,Chair,Furniture,New,12,130,10,1404.0
+1248,2025-05-09,West,Phone,Electronics,Returning,4,520,15,1768.0
+1249,2025-05-10,South,Chair,Furniture,New,8,130,0,1040.0
+1250,2025-05-10,East,Notebook,Stationery,New,26,4,5,98.8
+1251,2025-05-10,West,Pen Pack,Stationery,Returning,13,6,5,74.1
+1252,2025-05-11,West,Phone,Electronics,New,11,520,0,5720.0
+1253,2025-05-12,East,Notebook,Stationery,Returning,17,4,15,57.8
+1254,2025-05-13,North,Headphones,Electronics,Returning,7,90,15,535.5
+1255,2025-05-13,East,Notebook,Stationery,New,7,4,0,28.0
+1256,2025-05-13,North,Phone,Electronics,New,11,520,15,4862.0
+1257,2025-05-14,East,Phone,Electronics,Returning,18,520,5,8892.0
+1258,2025-05-15,South,Desk,Furniture,Returning,14,240,15,2856.0
+1259,2025-05-15,West,Pen Pack,Stationery,New,7,6,10,37.8
+1260,2025-05-15,North,Desk,Furniture,New,15,240,0,3600.0
+1261,2025-05-16,North,Chair,Furniture,New,10,130,0,1300.0
+1262,2025-05-16,North,Laptop,Electronics,Returning,17,850,0,14450.0
+1263,2025-05-17,North,Laptop,Electronics,New,16,850,0,13600.0
+1264,2025-05-18,North,Notebook,Stationery,Returning,13,4,10,46.8
+1265,2025-05-18,South,Pen Pack,Stationery,New,10,6,10,54.0
+1266,2025-05-18,West,Laptop,Electronics,New,10,850,0,8500.0
+1267,2025-05-19,North,Pen Pack,Stationery,Returning,15,6,15,76.5
+1268,2025-05-19,West,Laptop,Electronics,New,16,850,15,11560.0
+1269,2025-05-19,East,Headphones,Electronics,Returning,22,90,0,1980.0
+1270,2025-05-20,North,Headphones,Electronics,Returning,11,90,15,841.5
+1271,2025-05-20,East,Pen Pack,Stationery,Returning,19,6,10,102.6
+1272,2025-05-21,North,Pen Pack,Stationery,Returning,7,6,0,42.0
+1273,2025-05-21,West,Notebook,Stationery,New,13,4,0,52.0
+1274,2025-05-22,North,Chair,Furniture,New,13,130,0,1690.0
+1275,2025-05-22,East,Pen Pack,Stationery,New,11,6,0,66.0
+1276,2025-05-22,East,Desk,Furniture,Returning,22,240,0,5280.0
+1277,2025-05-23,East,Pen Pack,Stationery,Returning,19,6,10,102.6
+1278,2025-05-23,South,Headphones,Electronics,Returning,13,90,0,1170.0
+1279,2025-05-23,South,Laptop,Electronics,New,1,850,15,722.5
+1280,2025-05-24,North,Notebook,Stationery,New,10,4,5,38.0
+1281,2025-05-24,West,Notebook,Stationery,Returning,12,4,0,48.0
+1282,2025-05-25,East,Headphones,Electronics,Returning,7,90,0,630.0
+1283,2025-05-26,South,Desk,Furniture,New,11,240,0,2640.0
+1284,2025-05-26,East,Chair,Furniture,Returning,12,130,5,1482.0
+1285,2025-05-26,South,Desk,Furniture,Returning,11,240,5,2508.0
+1286,2025-05-27,South,Phone,Electronics,New,6,520,15,2652.0
+1287,2025-05-27,South,Headphones,Electronics,New,14,90,0,1260.0
+1288,2025-05-27,South,Phone,Electronics,New,8,520,0,4160.0
+1289,2025-05-28,East,Phone,Electronics,New,6,520,0,3120.0
+1290,2025-05-29,North,Phone,Electronics,Returning,1,520,0,520.0
+1291,2025-05-30,East,Phone,Electronics,New,25,520,0,13000.0
+1292,2025-05-30,East,Phone,Electronics,Returning,19,520,0,9880.0
+1293,2025-05-31,South,Chair,Furniture,Returning,6,130,15,663.0
+1294,2025-05-31,West,Laptop,Electronics,New,14,850,5,11305.0
+1295,2025-06-01,South,Pen Pack,Stationery,Returning,13,6,5,74.1
+1296,2025-06-01,South,Notebook,Stationery,New,8,4,15,27.2
+1297,2025-06-01,South,Notebook,Stationery,Returning,1,4,0,4.0
+1298,2025-06-02,East,Headphones,Electronics,New,12,90,5,1026.0
+1299,2025-06-02,West,Notebook,Stationery,New,9,4,15,30.6
+1300,2025-06-03,West,Desk,Furniture,New,4,240,5,912.0
+1301,2025-06-03,East,Pen Pack,Stationery,Returning,16,6,0,96.0
+1302,2025-06-04,North,Laptop,Electronics,New,11,850,15,7947.5
+1303,2025-06-04,East,Laptop,Electronics,Returning,18,850,10,13770.0
+1304,2025-06-05,South,Notebook,Stationery,Returning,8,4,0,32.0
+1305,2025-06-05,West,Notebook,Stationery,New,10,4,5,38.0
+1306,2025-06-05,South,Desk,Furniture,Returning,1,240,15,204.0
+1307,2025-06-06,North,Headphones,Electronics,Returning,10,90,0,900.0
+1308,2025-06-06,West,Laptop,Electronics,Returning,15,850,5,12112.5
+1309,2025-06-06,East,Laptop,Electronics,Returning,14,850,0,11900.0
+1310,2025-06-07,West,Chair,Furniture,Returning,25,130,5,3087.5
+1311,2025-06-07,South,Phone,Electronics,New,7,520,0,3640.0
+1312,2025-06-07,South,Desk,Furniture,Returning,5,240,0,1200.0
+1313,2025-06-08,West,Desk,Furniture,New,5,240,0,1200.0
+1314,2025-06-08,West,Headphones,Electronics,Returning,11,90,15,841.5
+1315,2025-06-08,East,Desk,Furniture,New,10,240,15,2040.0
+1316,2025-06-09,North,Pen Pack,Stationery,Returning,11,6,0,66.0
+1317,2025-06-09,East,Desk,Furniture,Returning,9,240,5,2052.0
+1318,2025-06-10,North,Notebook,Stationery,Returning,14,4,0,56.0
+1319,2025-06-10,North,Laptop,Electronics,Returning,10,850,10,7650.0
+1320,2025-06-10,South,Chair,Furniture,New,12,130,0,1560.0
+1321,2025-06-11,North,Notebook,Stationery,Returning,5,4,0,20.0
+1322,2025-06-12,North,Chair,Furniture,Returning,14,130,5,1729.0
+1323,2025-06-12,South,Phone,Electronics,New,11,520,5,5434.0
+1324,2025-06-12,North,Notebook,Stationery,Returning,17,4,15,57.8
+1325,2025-06-13,West,Notebook,Stationery,New,7,4,0,28.0
+1326,2025-06-14,West,Notebook,Stationery,Returning,15,4,0,60.0
+1327,2025-06-14,South,Pen Pack,Stationery,Returning,6,6,0,36.0
+1328,2025-06-14,West,Chair,Furniture,Returning,15,130,0,1950.0
+1329,2025-06-15,West,Phone,Electronics,New,12,520,10,5616.0
+1330,2025-06-16,East,Desk,Furniture,Returning,12,240,0,2880.0
+1331,2025-06-17,West,Desk,Furniture,New,5,240,15,1020.0
+1332,2025-06-17,South,Notebook,Stationery,New,5,4,0,20.0
+1333,2025-06-18,East,Pen Pack,Stationery,Returning,21,6,0,126.0
+1334,2025-06-18,West,Pen Pack,Stationery,Returning,11,6,15,56.1
+1335,2025-06-18,South,Headphones,Electronics,Returning,8,90,0,720.0
+1336,2025-06-19,West,Pen Pack,Stationery,Returning,3,6,0,18.0
+1337,2025-06-19,West,Headphones,Electronics,Returning,9,90,5,769.5
+1338,2025-06-20,North,Pen Pack,Stationery,Returning,10,6,5,57.0
+1339,2025-06-20,East,Chair,Furniture,Returning,19,130,0,2470.0
+1340,2025-06-20,South,Notebook,Stationery,Returning,7,4,0,28.0
+1341,2025-06-21,East,Phone,Electronics,New,14,520,10,6552.0
+1342,2025-06-21,North,Desk,Furniture,New,10,240,10,2160.0
+1343,2025-06-21,West,Headphones,Electronics,New,1,90,0,90.0
+1344,2025-06-22,South,Pen Pack,Stationery,New,14,6,15,71.4
+1345,2025-06-23,West,Chair,Furniture,New,7,130,0,910.0
+1346,2025-06-23,South,Laptop,Electronics,New,7,850,0,5950.0
+1347,2025-06-23,South,Pen Pack,Stationery,Returning,5,6,0,30.0
+1348,2025-06-24,North,Headphones,Electronics,Returning,13,90,0,1170.0
+1349,2025-06-25,South,Desk,Furniture,Returning,8,240,0,1920.0
+1350,2025-06-25,North,Desk,Furniture,Returning,5,240,0,1200.0
+1351,2025-06-26,North,Pen Pack,Stationery,Returning,9,6,0,54.0
+1352,2025-06-26,West,Desk,Furniture,New,16,240,10,3456.0
+1353,2025-06-26,West,Pen Pack,Stationery,New,13,6,5,74.1
+1354,2025-06-27,West,Phone,Electronics,New,15,520,5,7410.0
+1355,2025-06-28,North,Pen Pack,Stationery,New,7,6,0,42.0
+1356,2025-06-29,South,Desk,Furniture,Returning,15,240,0,3600.0
+1357,2025-06-30,South,Laptop,Electronics,New,10,850,0,8500.0
+1358,2025-06-30,North,Headphones,Electronics,Returning,6,90,5,513.0
+1359,2025-06-30,North,Notebook,Stationery,New,6,4,0,24.0
+1360,2025-07-01,North,Notebook,Stationery,Returning,9,4,5,34.2
+1361,2025-07-02,South,Pen Pack,Stationery,New,4,6,5,22.8
+1362,2025-07-02,East,Headphones,Electronics,New,23,90,5,1966.5
+1363,2025-07-03,North,Headphones,Electronics,New,9,90,15,688.5
+1364,2025-07-04,West,Desk,Furniture,Returning,4,240,0,960.0
+1365,2025-07-04,East,Headphones,Electronics,Returning,21,90,0,1890.0
+1366,2025-07-04,North,Pen Pack,Stationery,Returning,17,6,10,91.8
+1367,2025-07-05,West,Desk,Furniture,Returning,17,240,15,3468.0
+1368,2025-07-06,South,Pen Pack,Stationery,Returning,3,6,0,18.0
+1369,2025-07-06,East,Desk,Furniture,New,17,240,0,4080.0
+1370,2025-07-06,East,Pen Pack,Stationery,New,22,6,10,118.8
+1371,2025-07-07,West,Headphones,Electronics,New,18,90,10,1458.0
+1372,2025-07-07,West,Pen Pack,Stationery,New,4,6,15,20.4
+1373,2025-07-08,North,Notebook,Stationery,Returning,17,4,5,64.6
+1374,2025-07-08,South,Headphones,Electronics,Returning,9,90,5,769.5
+1375,2025-07-09,North,Chair,Furniture,New,11,130,0,1430.0
+1376,2025-07-09,South,Desk,Furniture,Returning,2,240,10,432.0
+1377,2025-07-09,West,Chair,Furniture,New,6,130,10,702.0
+1378,2025-07-10,South,Phone,Electronics,Returning,15,520,0,7800.0
+1379,2025-07-11,East,Desk,Furniture,New,20,240,10,4320.0
+1380,2025-07-11,South,Laptop,Electronics,Returning,13,850,0,11050.0
+1381,2025-07-11,West,Pen Pack,Stationery,New,8,6,0,48.0
+1382,2025-07-12,North,Headphones,Electronics,New,10,90,0,900.0
+1383,2025-07-12,South,Pen Pack,Stationery,Returning,14,6,10,75.6
+1384,2025-07-13,South,Headphones,Electronics,Returning,12,90,0,1080.0
+1385,2025-07-13,South,Headphones,Electronics,Returning,8,90,0,720.0
+1386,2025-07-13,South,Phone,Electronics,Returning,8,520,0,4160.0
+1387,2025-07-14,West,Desk,Furniture,Returning,11,240,0,2640.0
+1388,2025-07-14,North,Notebook,Stationery,New,15,4,10,54.0
+1389,2025-07-14,North,Notebook,Stationery,Returning,11,4,10,39.6
+1390,2025-07-15,West,Pen Pack,Stationery,New,17,6,15,86.7
+1391,2025-07-16,North,Headphones,Electronics,New,22,90,0,1980.0
+1392,2025-07-17,North,Pen Pack,Stationery,Returning,15,6,10,81.0
+1393,2025-07-17,North,Laptop,Electronics,Returning,10,850,0,8500.0
+1394,2025-07-17,North,Phone,Electronics,Returning,10,520,10,4680.0
+1395,2025-07-18,North,Desk,Furniture,Returning,8,240,0,1920.0
+1396,2025-07-18,East,Desk,Furniture,Returning,19,240,0,4560.0
+1397,2025-07-18,South,Pen Pack,Stationery,New,12,6,0,72.0
+1398,2025-07-19,South,Pen Pack,Stationery,New,18,6,0,108.0
+1399,2025-07-19,East,Notebook,Stationery,Returning,17,4,0,68.0
+1400,2025-07-20,West,Pen Pack,Stationery,Returning,12,6,0,72.0
+1401,2025-07-21,West,Laptop,Electronics,Returning,11,850,15,7947.5
+1402,2025-07-22,East,Phone,Electronics,New,14,520,5,6916.0
+1403,2025-07-23,South,Headphones,Electronics,Returning,7,90,5,598.5
+1404,2025-07-23,South,Phone,Electronics,Returning,14,520,0,7280.0
+1405,2025-07-24,East,Desk,Furniture,Returning,15,240,0,3600.0
+1406,2025-07-25,West,Laptop,Electronics,New,13,850,15,9392.5
+1407,2025-07-25,West,Pen Pack,Stationery,New,15,6,0,90.0
+1408,2025-07-26,South,Headphones,Electronics,New,6,90,0,540.0
+1409,2025-07-26,North,Desk,Furniture,Returning,13,240,0,3120.0
+1410,2025-07-27,North,Pen Pack,Stationery,New,11,6,15,56.1
+1411,2025-07-28,East,Chair,Furniture,Returning,9,130,0,1170.0
+1412,2025-07-28,North,Pen Pack,Stationery,Returning,15,6,0,90.0
+1413,2025-07-29,North,Desk,Furniture,Returning,6,240,0,1440.0
+1414,2025-07-29,South,Phone,Electronics,New,12,520,0,6240.0
+1415,2025-07-30,North,Pen Pack,Stationery,Returning,6,6,0,36.0
+1416,2025-07-31,South,Phone,Electronics,New,13,520,15,5746.0
+1417,2025-07-31,East,Phone,Electronics,New,21,520,0,10920.0
+1418,2025-08-01,West,Pen Pack,Stationery,Returning,10,6,0,60.0
+1419,2025-08-01,East,Pen Pack,Stationery,Returning,12,6,15,61.2
+1420,2025-08-01,North,Laptop,Electronics,Returning,4,850,0,3400.0
+1421,2025-08-02,South,Chair,Furniture,New,13,130,0,1690.0
+1422,2025-08-03,East,Chair,Furniture,Returning,13,130,10,1521.0
+1423,2025-08-04,North,Laptop,Electronics,New,11,850,0,9350.0
+1424,2025-08-04,East,Pen Pack,Stationery,Returning,12,6,0,72.0
+1425,2025-08-04,North,Notebook,Stationery,Returning,7,4,5,26.6
+1426,2025-08-05,North,Chair,Furniture,New,12,130,0,1560.0
+1427,2025-08-05,South,Chair,Furniture,New,7,130,0,910.0
+1428,2025-08-05,North,Headphones,Electronics,New,11,90,0,990.0
+1429,2025-08-06,South,Headphones,Electronics,Returning,16,90,0,1440.0
+1430,2025-08-07,South,Notebook,Stationery,New,6,4,0,24.0
+1431,2025-08-07,North,Headphones,Electronics,Returning,13,90,0,1170.0
+1432,2025-08-07,West,Chair,Furniture,New,7,130,0,910.0
+1433,2025-08-08,South,Chair,Furniture,New,9,130,10,1053.0
+1434,2025-08-08,South,Phone,Electronics,New,7,520,5,3458.0
+1435,2025-08-09,West,Notebook,Stationery,New,6,4,5,22.8
+1436,2025-08-10,North,Pen Pack,Stationery,Returning,8,6,0,48.0
+1437,2025-08-10,East,Pen Pack,Stationery,New,18,6,5,102.6
+1438,2025-08-11,South,Notebook,Stationery,New,12,4,5,45.6
+1439,2025-08-11,East,Laptop,Electronics,New,12,850,10,9180.0
+1440,2025-08-12,East,Desk,Furniture,New,17,240,0,4080.0
+1441,2025-08-13,West,Pen Pack,Stationery,New,17,6,5,96.9
+1442,2025-08-13,North,Laptop,Electronics,Returning,16,850,15,11560.0
+1443,2025-08-14,North,Chair,Furniture,Returning,6,130,0,780.0
+1444,2025-08-14,North,Chair,Furniture,Returning,15,130,0,1950.0
+1445,2025-08-14,North,Headphones,Electronics,New,12,90,0,1080.0
+1446,2025-08-15,North,Chair,Furniture,New,22,130,0,2860.0
+1447,2025-08-16,South,Desk,Furniture,New,7,240,0,1680.0
+1448,2025-08-16,East,Desk,Furniture,New,10,240,15,2040.0
+1449,2025-08-17,East,Pen Pack,Stationery,New,12,6,5,68.4
+1450,2025-08-17,West,Phone,Electronics,Returning,6,520,10,2808.0
+1451,2025-08-17,West,Desk,Furniture,New,9,240,0,2160.0
+1452,2025-08-18,East,Phone,Electronics,Returning,17,520,10,7956.0
+1453,2025-08-19,East,Phone,Electronics,Returning,21,520,0,10920.0
+1454,2025-08-20,East,Desk,Furniture,Returning,12,240,0,2880.0
+1455,2025-08-20,North,Pen Pack,Stationery,New,22,6,0,132.0
+1456,2025-08-20,North,Chair,Furniture,Returning,15,130,0,1950.0
+1457,2025-08-21,East,Notebook,Stationery,New,9,4,0,36.0
+1458,2025-08-21,South,Desk,Furniture,New,7,240,15,1428.0
+1459,2025-08-22,East,Pen Pack,Stationery,New,19,6,10,102.6
+1460,2025-08-22,West,Headphones,Electronics,New,12,90,15,918.0
+1461,2025-08-22,West,Pen Pack,Stationery,New,3,6,0,18.0
+1462,2025-08-23,North,Desk,Furniture,Returning,1,240,0,240.0
+1463,2025-08-23,East,Pen Pack,Stationery,New,25,6,10,135.0
+1464,2025-08-24,West,Notebook,Stationery,Returning,3,4,0,12.0
+1465,2025-08-24,West,Chair,Furniture,Returning,12,130,10,1404.0
+1466,2025-08-25,East,Laptop,Electronics,Returning,17,850,5,13727.5
+1467,2025-08-25,West,Headphones,Electronics,Returning,2,90,0,180.0
+1468,2025-08-25,South,Desk,Furniture,Returning,4,240,0,960.0
+1469,2025-08-26,South,Headphones,Electronics,Returning,7,90,0,630.0
+1470,2025-08-26,North,Laptop,Electronics,Returning,18,850,5,14535.0
+1471,2025-08-27,East,Chair,Furniture,Returning,16,130,10,1872.0
+1472,2025-08-27,West,Desk,Furniture,Returning,9,240,15,1836.0
+1473,2025-08-27,West,Laptop,Electronics,New,11,850,15,7947.5
+1474,2025-08-28,South,Laptop,Electronics,New,5,850,15,3612.5
+1475,2025-08-28,South,Desk,Furniture,Returning,12,240,5,2736.0
+1476,2025-08-28,West,Pen Pack,Stationery,New,1,6,0,6.0
+1477,2025-08-29,East,Headphones,Electronics,New,1,90,0,90.0
+1478,2025-08-30,South,Laptop,Electronics,Returning,7,850,0,5950.0
+1479,2025-08-30,South,Chair,Furniture,New,6,130,0,780.0
+1480,2025-08-31,South,Desk,Furniture,New,11,240,10,2376.0
+1481,2025-08-31,East,Chair,Furniture,New,22,130,15,2431.0
+1482,2025-08-31,West,Laptop,Electronics,New,11,850,15,7947.5
+1483,2025-09-01,West,Pen Pack,Stationery,New,7,6,0,42.0
+1484,2025-09-01,North,Phone,Electronics,Returning,15,520,10,7020.0
+1485,2025-09-02,South,Chair,Furniture,Returning,15,130,0,1950.0
+1486,2025-09-02,North,Phone,Electronics,New,16,520,0,8320.0
+1487,2025-09-02,North,Laptop,Electronics,Returning,19,850,0,16150.0
+1488,2025-09-03,West,Pen Pack,Stationery,Returning,12,6,15,61.2
+1489,2025-09-03,South,Notebook,Stationery,Returning,4,4,0,16.0
+1490,2025-09-04,South,Laptop,Electronics,New,9,850,10,6885.0
+1491,2025-09-04,East,Phone,Electronics,Returning,17,520,5,8398.0
+1492,2025-09-05,North,Phone,Electronics,Returning,17,520,0,8840.0
+1493,2025-09-06,South,Phone,Electronics,New,6,520,0,3120.0
+1494,2025-09-07,South,Headphones,Electronics,Returning,17,90,5,1453.5
+1495,2025-09-08,East,Desk,Furniture,New,14,240,0,3360.0
+1496,2025-09-08,West,Notebook,Stationery,Returning,10,4,0,40.0
+1497,2025-09-09,West,Laptop,Electronics,New,7,850,0,5950.0
+1498,2025-09-09,South,Phone,Electronics,Returning,7,520,0,3640.0
+1499,2025-09-09,East,Laptop,Electronics,Returning,17,850,0,14450.0
+1500,2025-09-10,West,Notebook,Stationery,New,12,4,0,48.0
+1501,2025-09-10,West,Phone,Electronics,Returning,11,520,5,5434.0
+1502,2025-09-11,South,Desk,Furniture,New,15,240,0,3600.0
+1503,2025-09-11,South,Notebook,Stationery,New,10,4,0,40.0
+1504,2025-09-12,East,Chair,Furniture,Returning,15,130,5,1852.5
+1505,2025-09-13,South,Headphones,Electronics,New,7,90,0,630.0
+1506,2025-09-14,West,Desk,Furniture,Returning,6,240,0,1440.0
+1507,2025-09-14,South,Phone,Electronics,New,5,520,5,2470.0
+1508,2025-09-14,East,Chair,Furniture,New,20,130,0,2600.0
+1509,2025-09-15,South,Phone,Electronics,New,6,520,0,3120.0
+1510,2025-09-15,East,Notebook,Stationery,New,15,4,15,51.0
+1511,2025-09-16,North,Desk,Furniture,New,7,240,15,1428.0
+1512,2025-09-16,South,Pen Pack,Stationery,New,11,6,15,56.1
+1513,2025-09-17,East,Pen Pack,Stationery,Returning,10,6,10,54.0
+1514,2025-09-18,North,Notebook,Stationery,Returning,10,4,0,40.0
+1515,2025-09-19,East,Desk,Furniture,New,18,240,5,4104.0
+1516,2025-09-19,East,Phone,Electronics,Returning,23,520,15,10166.0
+1517,2025-09-20,North,Notebook,Stationery,Returning,13,4,15,44.2
+1518,2025-09-20,South,Pen Pack,Stationery,New,2,6,0,12.0
+1519,2025-09-21,North,Headphones,Electronics,New,18,90,10,1458.0
+1520,2025-09-21,North,Desk,Furniture,Returning,14,240,0,3360.0
+1521,2025-09-22,West,Notebook,Stationery,Returning,11,4,0,44.0
+1522,2025-09-23,South,Chair,Furniture,Returning,12,130,15,1326.0
+1523,2025-09-23,West,Notebook,Stationery,Returning,5,4,15,17.0
+1524,2025-09-23,North,Laptop,Electronics,New,16,850,0,13600.0
+1525,2025-09-24,North,Phone,Electronics,New,4,520,15,1768.0
+1526,2025-09-24,North,Pen Pack,Stationery,New,8,6,0,48.0
+1527,2025-09-24,West,Notebook,Stationery,Returning,17,4,15,57.8
+1528,2025-09-25,South,Headphones,Electronics,Returning,5,90,5,427.5
+1529,2025-09-25,East,Notebook,Stationery,Returning,13,4,10,46.8
+1530,2025-09-25,North,Notebook,Stationery,New,10,4,10,36.0
+1531,2025-09-26,South,Laptop,Electronics,Returning,5,850,15,3612.5
+1532,2025-09-26,South,Chair,Furniture,Returning,13,130,0,1690.0
+1533,2025-09-27,North,Phone,Electronics,Returning,19,520,0,9880.0
+1534,2025-09-28,North,Phone,Electronics,Returning,10,520,15,4420.0
+1535,2025-09-28,West,Phone,Electronics,New,8,520,15,3536.0
+1536,2025-09-29,West,Phone,Electronics,New,14,520,0,7280.0
+1537,2025-09-30,South,Chair,Furniture,New,8,130,10,936.0
+1538,2025-09-30,East,Notebook,Stationery,New,17,4,0,68.0
+1539,2025-09-30,West,Pen Pack,Stationery,New,5,6,5,28.5
+1540,2025-10-01,East,Laptop,Electronics,Returning,11,850,0,9350.0
+1541,2025-10-02,South,Laptop,Electronics,Returning,11,850,15,7947.5
+1542,2025-10-02,West,Laptop,Electronics,Returning,13,850,10,9945.0
+1543,2025-10-03,South,Chair,Furniture,New,13,130,0,1690.0
+1544,2025-10-03,North,Desk,Furniture,Returning,20,240,0,4800.0
+1545,2025-10-04,East,Laptop,Electronics,Returning,13,850,15,9392.5
+1546,2025-10-04,West,Desk,Furniture,Returning,12,240,0,2880.0
+1547,2025-10-04,North,Notebook,Stationery,Returning,17,4,0,68.0
+1548,2025-10-05,South,Laptop,Electronics,New,10,850,5,8075.0
+1549,2025-10-05,East,Headphones,Electronics,New,15,90,0,1350.0
+1550,2025-10-05,North,Pen Pack,Stationery,Returning,11,6,10,59.4
+1551,2025-10-06,South,Notebook,Stationery,Returning,6,4,0,24.0
+1552,2025-10-06,South,Headphones,Electronics,New,15,90,0,1350.0
+1553,2025-10-07,North,Laptop,Electronics,Returning,20,850,10,15300.0
+1554,2025-10-08,South,Desk,Furniture,New,3,240,0,720.0
+1555,2025-10-09,South,Phone,Electronics,Returning,12,520,0,6240.0
+1556,2025-10-10,West,Laptop,Electronics,New,19,850,5,15342.5
+1557,2025-10-10,South,Notebook,Stationery,New,8,4,0,32.0
+1558,2025-10-10,North,Pen Pack,Stationery,Returning,4,6,10,21.6
+1559,2025-10-11,East,Laptop,Electronics,New,7,850,15,5057.5
+1560,2025-10-12,West,Headphones,Electronics,New,11,90,0,990.0
+1561,2025-10-12,West,Headphones,Electronics,Returning,11,90,0,990.0
+1562,2025-10-12,East,Chair,Furniture,Returning,15,130,0,1950.0
+1563,2025-10-13,South,Desk,Furniture,New,11,240,10,2376.0
+1564,2025-10-13,North,Notebook,Stationery,Returning,8,4,0,32.0
+1565,2025-10-14,West,Notebook,Stationery,New,5,4,15,17.0
+1566,2025-10-14,East,Pen Pack,Stationery,New,7,6,0,42.0
+1567,2025-10-15,West,Notebook,Stationery,New,18,4,0,72.0
+1568,2025-10-16,East,Chair,Furniture,New,8,130,10,936.0
+1569,2025-10-16,West,Desk,Furniture,New,8,240,0,1920.0
+1570,2025-10-16,South,Phone,Electronics,New,12,520,15,5304.0
+1571,2025-10-17,East,Notebook,Stationery,New,13,4,0,52.0
+1572,2025-10-18,East,Notebook,Stationery,New,6,4,0,24.0
+1573,2025-10-18,North,Pen Pack,Stationery,New,12,6,5,68.4
+1574,2025-10-18,West,Phone,Electronics,New,14,520,15,6188.0
+1575,2025-10-19,North,Desk,Furniture,Returning,7,240,15,1428.0
+1576,2025-10-19,South,Phone,Electronics,Returning,3,520,0,1560.0
+1577,2025-10-19,North,Desk,Furniture,New,8,240,0,1920.0
+1578,2025-10-20,North,Laptop,Electronics,Returning,8,850,5,6460.0
+1579,2025-10-20,North,Notebook,Stationery,Returning,1,4,0,4.0
+1580,2025-10-21,South,Chair,Furniture,New,14,130,0,1820.0
+1581,2025-10-22,East,Pen Pack,Stationery,New,20,6,15,102.0
+1582,2025-10-22,East,Laptop,Electronics,Returning,14,850,10,10710.0
+1583,2025-10-23,West,Laptop,Electronics,Returning,16,850,10,12240.0
+1584,2025-10-23,North,Headphones,Electronics,New,3,90,0,270.0
+1585,2025-10-23,South,Headphones,Electronics,New,7,90,0,630.0
+1586,2025-10-24,West,Laptop,Electronics,New,13,850,0,11050.0
+1587,2025-10-24,West,Laptop,Electronics,Returning,5,850,0,4250.0
+1588,2025-10-24,South,Phone,Electronics,Returning,6,520,15,2652.0
+1589,2025-10-25,East,Chair,Furniture,Returning,12,130,15,1326.0
+1590,2025-10-26,North,Laptop,Electronics,Returning,10,850,10,7650.0
+1591,2025-10-26,North,Pen Pack,Stationery,New,14,6,0,84.0
+1592,2025-10-27,West,Pen Pack,Stationery,Returning,8,6,5,45.6
+1593,2025-10-28,North,Headphones,Electronics,New,12,90,0,1080.0
+1594,2025-10-29,South,Chair,Furniture,Returning,7,130,0,910.0
+1595,2025-10-29,East,Chair,Furniture,Returning,11,130,5,1358.5
+1596,2025-10-30,East,Laptop,Electronics,New,10,850,0,8500.0
+1597,2025-10-30,South,Desk,Furniture,New,13,240,10,2808.0
+1598,2025-10-31,South,Notebook,Stationery,New,8,4,0,32.0
+1599,2025-10-31,East,Headphones,Electronics,New,10,90,10,810.0
+1600,2025-10-31,North,Chair,Furniture,Returning,13,130,0,1690.0
+1601,2025-11-01,North,Headphones,Electronics,New,16,90,0,1440.0
+1602,2025-11-01,South,Notebook,Stationery,Returning,18,4,0,72.0
+1603,2025-11-01,South,Headphones,Electronics,Returning,22,90,10,1782.0
+1604,2025-11-02,North,Notebook,Stationery,Returning,9,4,5,34.2
+1605,2025-11-02,South,Pen Pack,Stationery,Returning,12,6,0,72.0
+1606,2025-11-03,South,Phone,Electronics,Returning,27,520,5,13338.0
+1607,2025-11-04,West,Chair,Furniture,New,11,130,0,1430.0
+1608,2025-11-04,North,Phone,Electronics,Returning,16,520,15,7072.0
+1609,2025-11-05,South,Chair,Furniture,New,12,130,0,1560.0
+1610,2025-11-06,East,Desk,Furniture,New,7,240,5,1596.0
+1611,2025-11-06,West,Headphones,Electronics,Returning,25,90,0,2250.0
+1612,2025-11-07,North,Pen Pack,Stationery,New,14,6,15,71.4
+1613,2025-11-07,South,Laptop,Electronics,Returning,19,850,5,15342.5
+1614,2025-11-08,East,Pen Pack,Stationery,New,11,6,0,66.0
+1615,2025-11-09,North,Laptop,Electronics,Returning,17,850,0,14450.0
+1616,2025-11-10,South,Laptop,Electronics,Returning,17,850,0,14450.0
+1617,2025-11-10,North,Phone,Electronics,Returning,27,520,0,14040.0
+1618,2025-11-10,North,Notebook,Stationery,New,5,4,0,20.0
+1619,2025-11-11,West,Pen Pack,Stationery,New,11,6,0,66.0
+1620,2025-11-12,East,Pen Pack,Stationery,Returning,6,6,0,36.0
+1621,2025-11-12,North,Laptop,Electronics,Returning,19,850,0,16150.0
+1622,2025-11-12,North,Desk,Furniture,New,5,240,0,1200.0
+1623,2025-11-13,North,Phone,Electronics,New,9,520,0,4680.0
+1624,2025-11-14,North,Headphones,Electronics,New,22,90,10,1782.0
+1625,2025-11-14,East,Phone,Electronics,Returning,12,520,15,5304.0
+1626,2025-11-14,West,Pen Pack,Stationery,Returning,17,6,15,86.7
+1627,2025-11-15,East,Headphones,Electronics,Returning,25,90,10,2025.0
+1628,2025-11-15,South,Headphones,Electronics,Returning,22,90,15,1683.0
+1629,2025-11-15,South,Notebook,Stationery,Returning,9,4,0,36.0
+1630,2025-11-16,North,Chair,Furniture,New,13,130,10,1521.0
+1631,2025-11-17,South,Headphones,Electronics,Returning,16,90,10,1296.0
+1632,2025-11-17,South,Phone,Electronics,New,24,520,0,12480.0
+1633,2025-11-17,East,Pen Pack,Stationery,New,5,6,15,25.5
+1634,2025-11-18,West,Phone,Electronics,Returning,12,520,5,5928.0
+1635,2025-11-18,South,Headphones,Electronics,New,9,90,0,810.0
+1636,2025-11-19,North,Laptop,Electronics,Returning,24,850,15,17340.0
+1637,2025-11-19,North,Phone,Electronics,Returning,1,520,10,468.0
+1638,2025-11-19,West,Desk,Furniture,New,16,240,0,3840.0
+1639,2025-11-20,North,Headphones,Electronics,Returning,14,90,15,1071.0
+1640,2025-11-20,South,Phone,Electronics,Returning,11,520,5,5434.0
+1641,2025-11-21,West,Phone,Electronics,New,20,520,10,9360.0
+1642,2025-11-21,West,Pen Pack,Stationery,Returning,17,6,0,102.0
+1643,2025-11-22,North,Headphones,Electronics,Returning,12,90,0,1080.0
+1644,2025-11-22,South,Phone,Electronics,New,11,520,5,5434.0
+1645,2025-11-23,North,Pen Pack,Stationery,Returning,18,6,0,108.0
+1646,2025-11-23,North,Pen Pack,Stationery,New,12,6,5,68.4
+1647,2025-11-23,East,Notebook,Stationery,New,8,4,0,32.0
+1648,2025-11-24,North,Phone,Electronics,Returning,22,520,15,9724.0
+1649,2025-11-25,South,Desk,Furniture,Returning,8,240,15,1632.0
+1650,2025-11-26,West,Headphones,Electronics,Returning,9,90,5,769.5
+1651,2025-11-27,South,Phone,Electronics,New,6,520,15,2652.0
+1652,2025-11-28,South,Chair,Furniture,New,5,130,15,552.5
+1653,2025-11-29,North,Laptop,Electronics,New,12,850,0,10200.0
+1654,2025-11-29,North,Laptop,Electronics,Returning,38,850,10,29070.0
+1655,2025-11-29,North,Phone,Electronics,New,12,520,0,6240.0
+1656,2025-11-30,North,Chair,Furniture,Returning,8,130,0,1040.0
+1657,2025-11-30,South,Pen Pack,Stationery,New,13,6,0,78.0
+1658,2025-11-30,East,Notebook,Stationery,New,16,4,0,64.0
+1659,2025-12-01,North,Desk,Furniture,Returning,15,240,10,3240.0
+1660,2025-12-02,North,Headphones,Electronics,Returning,14,90,10,1134.0
+1661,2025-12-02,East,Notebook,Stationery,Returning,6,4,5,22.8
+1662,2025-12-03,West,Headphones,Electronics,Returning,9,90,0,810.0
+1663,2025-12-03,West,Desk,Furniture,New,9,240,0,2160.0
+1664,2025-12-04,East,Notebook,Stationery,New,9,4,0,36.0
+1665,2025-12-05,North,Laptop,Electronics,New,12,850,10,9180.0
+1666,2025-12-05,North,Desk,Furniture,Returning,10,240,15,2040.0
+1667,2025-12-05,East,Desk,Furniture,New,9,240,10,1944.0
+1668,2025-12-06,West,Chair,Furniture,New,7,130,5,864.5
+1669,2025-12-06,West,Headphones,Electronics,New,24,90,15,1836.0
+1670,2025-12-07,East,Chair,Furniture,New,8,130,0,1040.0
+1671,2025-12-07,East,Headphones,Electronics,Returning,6,90,5,513.0
+1672,2025-12-08,West,Chair,Furniture,Returning,11,130,10,1287.0
+1673,2025-12-08,South,Chair,Furniture,Returning,11,130,0,1430.0
+1674,2025-12-08,South,Notebook,Stationery,New,13,4,5,49.4
+1675,2025-12-09,North,Headphones,Electronics,Returning,32,90,5,2736.0
+1676,2025-12-09,West,Laptop,Electronics,New,6,850,5,4845.0
+1677,2025-12-09,East,Headphones,Electronics,Returning,30,90,15,2295.0
+1678,2025-12-10,North,Headphones,Electronics,New,1,90,15,76.5
+1679,2025-12-10,West,Notebook,Stationery,New,20,4,5,76.0
+1680,2025-12-11,South,Laptop,Electronics,New,11,850,10,8415.0
+1681,2025-12-11,East,Chair,Furniture,Returning,9,130,0,1170.0
+1682,2025-12-11,East,Laptop,Electronics,New,22,850,0,18700.0
+1683,2025-12-12,South,Headphones,Electronics,Returning,14,90,15,1071.0
+1684,2025-12-12,East,Headphones,Electronics,Returning,22,90,0,1980.0
+1685,2025-12-12,North,Phone,Electronics,Returning,33,520,0,17160.0
+1686,2025-12-13,East,Laptop,Electronics,Returning,20,850,0,17000.0
+1687,2025-12-13,West,Desk,Furniture,Returning,6,240,15,1224.0
+1688,2025-12-14,South,Desk,Furniture,New,10,240,10,2160.0
+1689,2025-12-14,East,Laptop,Electronics,New,17,850,15,12282.5
+1690,2025-12-15,North,Laptop,Electronics,Returning,19,850,10,14535.0
+1691,2025-12-15,West,Notebook,Stationery,New,6,4,0,24.0
+1692,2025-12-16,West,Desk,Furniture,New,9,240,5,2052.0
+1693,2025-12-16,North,Desk,Furniture,Returning,6,240,5,1368.0
+1694,2025-12-16,South,Chair,Furniture,New,9,130,0,1170.0
+1695,2025-12-17,North,Notebook,Stationery,Returning,11,4,0,44.0
+1696,2025-12-17,West,Pen Pack,Stationery,New,8,6,0,48.0
+1697,2025-12-18,West,Laptop,Electronics,Returning,17,850,0,14450.0
+1698,2025-12-19,South,Notebook,Stationery,Returning,5,4,10,18.0
+1699,2025-12-20,South,Desk,Furniture,New,16,240,0,3840.0
+1700,2025-12-20,East,Headphones,Electronics,Returning,32,90,0,2880.0
+1701,2025-12-20,East,Laptop,Electronics,Returning,48,850,0,40800.0
+1702,2025-12-21,East,Chair,Furniture,New,4,130,15,442.0
+1703,2025-12-21,East,Headphones,Electronics,Returning,35,90,0,3150.0
+1704,2025-12-22,East,Headphones,Electronics,Returning,22,90,10,1782.0
+1705,2025-12-22,West,Notebook,Stationery,New,12,4,5,45.6
+1706,2025-12-23,East,Phone,Electronics,New,8,520,15,3536.0
+1707,2025-12-23,East,Laptop,Electronics,New,25,850,10,19125.0
+1708,2025-12-24,East,Laptop,Electronics,New,19,850,0,16150.0
+1709,2025-12-24,South,Pen Pack,Stationery,Returning,16,6,10,86.4
+1710,2025-12-25,West,Phone,Electronics,New,17,520,5,8398.0
+1711,2025-12-25,North,Phone,Electronics,Returning,16,520,0,8320.0
+1712,2025-12-26,North,Notebook,Stationery,New,3,4,5,11.4
+1713,2025-12-27,East,Pen Pack,Stationery,New,10,6,0,60.0
+1714,2025-12-27,South,Pen Pack,Stationery,Returning,11,6,0,66.0
+1715,2025-12-27,North,Phone,Electronics,New,16,520,0,8320.0
+1716,2025-12-28,South,Notebook,Stationery,Returning,12,4,5,45.6
+1717,2025-12-28,South,Pen Pack,Stationery,New,4,6,0,24.0
+1718,2025-12-29,South,Pen Pack,Stationery,Returning,3,6,10,16.2
+1719,2025-12-30,South,Headphones,Electronics,Returning,17,90,0,1530.0
+1720,2025-12-30,South,Phone,Electronics,Returning,24,520,0,12480.0
+1721,2025-12-30,North,Headphones,Electronics,New,14,90,5,1197.0
+1722,2025-12-31,East,Phone,Electronics,Returning,14,520,0,7280.0
+1723,2025-12-31,South,Notebook,Stationery,Returning,4,4,0,16.0
+1724,2025-12-31,East,Notebook,Stationery,New,13,4,0,52.0
